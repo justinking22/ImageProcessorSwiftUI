@@ -15,4 +15,5 @@ In summary, the Image Processor App built with SwiftUI provides an easy-to-use i
 
 
 
-<img src="Simulator Screenshot - iPhone 16 Plus - 2024-10-29 at 08.22.01.png" width="200"> <img src="Simulator Screenshot - iPhone 16 Plus - 2024-10-29 at 08.22.05.png" width="200">v
+<img src="Simulator Screenshot - iPhone 16 Plus - 2024-10-29 at 08.22.01.png" width="200">  
+<img src="Simulator Screenshot - iPhone 16 Plus - 2024-10-29 at 08.22.05.png" width="200">v
