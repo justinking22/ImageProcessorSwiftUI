@@ -12,4 +12,7 @@ Photography Enthusiasts: Quickly apply sepia tone for a retro effect.
 Social Media Content Creation: Enhance photos with creative filters for posts.
 Learning SwiftUI: A great project for exploring SwiftUI’s declarative syntax and CoreImage integration.
 In summary, the Image Processor App built with SwiftUI provides an easy-to-use interface for applying sepia tone effects and other filters, demonstrating SwiftUI’s capability for building visually appealing and interactive apps.
+
+
+
 <img src="Simulator Screenshot - iPhone 16 Plus - 2024-10-29 at 08.22.01.png" width="200"> <img src="Simulator Screenshot - iPhone 16 Plus - 2024-10-29 at 08.22.05.png" width="200">v
